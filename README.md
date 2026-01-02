@@ -12,11 +12,13 @@ Discord bot for the madebyannorr community - promoting embroidery designs, givea
 ## Setup
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Create `.env` file with your credentials:
+
 ```env
 DISCORD_TOKEN=your_bot_token
 APPLICATION_ID=your_app_id
@@ -26,6 +28,7 @@ ADMIN_USER_ID=your_user_id
 ```
 
 3. Run the bot:
+
 ```bash
 node src/index.js
 ```
